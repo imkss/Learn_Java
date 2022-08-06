@@ -30,13 +30,9 @@ public class MainClass {
 //		}
 //		System.out.println(number);
 		
-		System.out.println(getHash("Cat"));
-		System.out.println("Ball");
+		System.out.println(getHash("A"));
+		System.out.println("dog");
 		
-		
-		
-	
-
 	}
 	
 	public static int getHash(String s) {
